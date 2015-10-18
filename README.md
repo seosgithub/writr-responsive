@@ -1,4 +1,4 @@
-#Writr | A DokuWiki Template
+#Writr Responsive | A DokuWiki Template
 
 ![Screenshot](./images/sample.png)
 
