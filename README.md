@@ -1,4 +1,7 @@
 #Writr | A DokuWiki Template
+
+![./images/sample.png](Sample Image)
+
 This is a fork of the original *Writr* theme created by Anika Henke.  Based on [Writr Theme for WordPress](https://wordpress.com/themes/writr/) by [Automattic](http://automattic.com/)
 
 ##Authors
